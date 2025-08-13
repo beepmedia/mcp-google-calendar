@@ -1,0 +1,7 @@
+Category: beepmedia
+Repository: beepmedia/mcp/mcp-dev/mcp-google-calendar
+Full path: /Users/andreihasna/Dev/beepmedia/mcp/mcp-dev/mcp-google-calendar
+
+  • Has uncommitted changes
+Push successful: false
+---
